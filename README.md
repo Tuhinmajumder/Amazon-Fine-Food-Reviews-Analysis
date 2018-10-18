@@ -28,6 +28,20 @@ Time - timestamp for the review
 Summary - brief summary of the review
 Text - text of the review
 
+**Install**
+This project requires Python 3.6 and the following Python libraries installed:
+
+NumPy
+Pandas
+matplotlib
+scikit-learn
+nltk
+seaborn
+string
+gensim
+
+Also,Anaconda is recommended to be installed in machine, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 **Objective:**
 
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
